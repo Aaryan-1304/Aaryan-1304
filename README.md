@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/butalaaaryan" target="blank"><img src="https://img.shields.io/twitter/follow/butalaaaryan?logo=twitter&style=for-the-badge" alt="butalaaaryan" /></a> </p>
 
-- 🌱 I’m currently learning **python and DSA in C**
+- 🌱 I’m currently learning **JAVA along with DSA. Here to document my progressa as a software developer**
 
 - 📫 How to reach me **aaryanbutala13@gmail.com**
 
