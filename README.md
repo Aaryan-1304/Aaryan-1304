@@ -7,9 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/butalaaaryan" target="blank"><img src="https://img.shields.io/twitter/follow/butalaaaryan?logo=twitter&style=for-the-badge" alt="butalaaaryan" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA along with DSA. Here to document my progressa as a software developer**
+- 🌱 I’m currently learning **JAVA along with DSA, AWS Cloud. Here to document my progressa as a software developer**
 
 - 📫 How to reach me **aaryanbutala13@gmail.com**
+
+- **I'm looking for help with Full Stack development**
+
+- **Alwasys eager to learn and talk about tech**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
