@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaryan Butala</h1>
-<h3 align="center">**Aspiring Software engineering from India and currently a student studying at DY Patil University, Maharashtra**</h3>
+<h3 align="center">Aspiring Software engineering from India and currently a student studying at DY Patil University, Maharashtra</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryan-1304&label=Profile%20views&color=0e75b6&style=flat" alt="aaryan-1304" /> </p>
 
